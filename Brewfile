@@ -7,3 +7,4 @@ cask "rectangle"            # https://rectangleapp.com
 cask "visual-studio-code"   # https://code.visualstudio.com
 cask "zoom"                 # https://www.zoom.us
 cask "test"
+cask "test2"
