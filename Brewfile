@@ -1,7 +1,3 @@
-tap "homebrew/core"
-tap "homebrew/cask"
-
-cask "test"
 cask "appcleaner"           # https://freemacsoft.net/appcleaner/
 cask "arc"                  # https://arc.net/
 cask "daisydisk"            # https://daisydiskapp.com
